@@ -1,4 +1,4 @@
-# Angular Interview Questions & Answers
+# JavaScript Coding Questions & Solutions
 
 > Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@awwalfareed](https://github.com/awwalfareed) for technical updates.
 
